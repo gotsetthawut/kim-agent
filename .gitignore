@@ -1,0 +1,25 @@
+# KIM vault (local knowledge — do not commit)
+kim-vault/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# Skill package (generated)
+*.skill
+
+# Editor
+.vscode/
+.idea/
+*.swp
